@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  }
+  .Clock {
+    background-image: linear-gradient(to right, red , rgb(23, 116, 0), purple);
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    }
+ 
