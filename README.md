@@ -5,6 +5,7 @@ Simple Clock
 
 ------------------------------------------
 
+![mock7](https://user-images.githubusercontent.com/107311665/203368879-7c08dc68-fe86-4230-896f-85a9b182e673.png)
 
 
 
